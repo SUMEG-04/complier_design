@@ -1,0 +1,9 @@
+[KEYWORD] : #include [KEYWORD] : iostream 
+[KEYWORD] : namesapace [KEYWORD] : std 
+
+[TYPE] : int [KEYWORD] : main 
+[TYPE] : int [KEYWORD] : a [KEYWORD] : b 
+[KEYWORD] : cin [KEYWORD] : a [KEYWORD] : b 
+[KEYWORD] : cout [KEYWORD] : a [KEYWORD] : b [KEYWORD] : endl 
+
+[SINGLES LINES COMMENT]: //vy77tc 

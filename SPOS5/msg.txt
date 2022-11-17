@@ -1,0 +1,10 @@
+#include<iostream>
+using namesapace std;
+
+int main(){
+int a=0,b;
+defe="sumeg;
+cin>>a>>b;
+cout<<a<<" "<<b<<endl;
+}
+//vy77tc
